@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @achraf-sehlaoui-alx, a passionate and dedicated individual in the field of Computer Engineering.
+- 👀 I’m interested in exploring cutting-edge technologies, web development, and contributing to innovative projects.
+- 🌱 I’m currently learning and honing my skills in Full Stack Software Engineering through the ALX Africa program.
+- 💞️ I’m looking to collaborate on exciting projects that challenge my abilities and allow me to make meaningful contributions.
+- 📫 How to reach me: Feel free to contact me via email at sehlaoui.achraf@gmail.com or call me at +212 6 89 31 52 27.
+- 😄 Pronouns: He/Him -⚡ Fun fact: I love to experiment with new programming languages and enjoy solving complex coding puzzles in my free time.
